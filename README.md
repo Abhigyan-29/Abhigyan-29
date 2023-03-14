@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning DSA and Full stack development,<br>and I'm eager to use my newfound knowledge to create innovative<br>solutions that have positive impact on society.<br>🌱 My fascination with entrepreneurship has inspired me to<br> explore this field further, and I'm committed to expanding<br> my skill set to become a successful entrepreneur who<br>contributes meaningful to society<br>
+🔭 I’m currently learning DSA and Full stack development,and I'm eager to use my newfound knowledge to create innovative solutions that have positive impact on society.<br>🌱 My fascination with entrepreneurship has inspired me to<br> explore this field further, and I'm committed to expanding<br> my skill set to become a successful entrepreneur who<br>contributes meaningful to society<br>
 
 
 # 💻 Tech Stack:
