@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **prakashabhigyan2002@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/myshortresume](https://tinyurl.com/myshortresume)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
