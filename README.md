@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhigyan Prakash</h1>
 <h3 align="center">I'm a Computer Science student with a passion for coding and problem-solving. I have a solid foundation in basic Java, frontend development, and data structures and algorithms. Eager to learn and contribute to innovative projects.</h3>
 
-- 🌱 I’m currently learning **App Development**
+- 🌱 I’m currently learning **Backend Web Development**
 
 - 💬 Ask me about **DSA**
 
