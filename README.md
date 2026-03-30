@@ -31,7 +31,7 @@ education: Computer Science Graduate
 role: Full Stack Developer
 focus:
   - Backend Development (Node.js / APIs / Databases)
-  - Data Structures & Algorithms
+  - Data Structures & Algorithms (LeetCode grind 💪)
   - Scalable Full-Stack Architecture
   - System Design Fundamentals
 goal: "Build impactful tech products & launch my own startup 🚀"
@@ -41,7 +41,7 @@ status: "Currently mastering the backend ecosystem"
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 - 🎓 **CS Graduate** with a love for problem-solving
-- 💡 **DSA Enthusiast** 
+- 💡 **DSA Enthusiast** — consistent LeetCode grinder
 - ⚙️ **Deep diving** into Backend & System Design
 - 🛠️ **Building** full-stack apps with real-world impact
 - 🎯 **End goal:** Launch my own startup & build products at scale
@@ -52,7 +52,7 @@ status: "Currently mastering the backend ecosystem"
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> &nbsp;Tech Stack
+## 🚀 Tech Stack
 
 <details open>
 <summary><b>🌐 Languages</b></summary>
@@ -64,7 +64,6 @@ status: "Currently mastering the backend ecosystem"
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 
 </details>
 
@@ -98,28 +97,30 @@ status: "Currently mastering the backend ecosystem"
 
 ## 📊 GitHub Analytics
 
+<div align="center">
+
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyanprakash&theme=tokyonight&hide_border=true&background=0d1117&stroke=F7C62F&ring=F7C62F&fire=F7C62F&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=F7C62F&sideLabels=F7C62F&dates=a0aec0&border_radius=10" height="180"/>
+
+<img src="https://streak-stats.demolab.com?user=abhigyanprakash&theme=tokyonight&hide_border=true&background=0d1117&stroke=F7C62F&ring=F7C62F&fire=F7C62F&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=F7C62F&sideLabels=F7C62F&dates=a0aec0&border_radius=10" height="180"/>
+
 </div>
 
-
-
-
-
-
-
 ---
+
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-[![Abhigyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhigyanprakash&bg_color=0d1117&color=F7C62F&line=F7C62F&point=ffffff&area=true&hide_border=true&area_color=F7C62F)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abhigyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhigyanprakash&bg_color=0d1117&color=F7C62F&line=F7C62F&point=ffffff&area=true&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
+
 ## 🎯 Current Focus
 
 <div align="center">
@@ -151,17 +152,50 @@ status: "Currently mastering the backend ecosystem"
 
 <div align="center">
 
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
-
-
-<div align="center">
-
-**"The best error message is the one that never shows up."** — Thomas Fuchs
-
-<br>
-
-*⭐ If you find my work interesting, consider giving a star!*
+*⭐ If you find my work interesting, drop a star!*
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:F7C62F&height=120&section=footer&animation=fadeIn"/>
+
+---
+
+<!--
+╔══════════════════════════════════════════════════╗
+║        🐍 SNAKE ANIMATION SETUP                  ║
+║  Create: .github/workflows/snake.yml             ║
+╚══════════════════════════════════════════════════╝
+
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: abhigyanprakash
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+╔══════════════════════════════════════════════════╗
+║   🏆 TROPHY BACKUP URLs (if primary breaks)      ║
+╚══════════════════════════════════════════════════╝
+Mirror 1: https://github-profile-trophy-liard-delta.vercel.app  (currently used)
+Mirror 2: https://github-profile-trophy-fork-two.vercel.app
+Mirror 3: https://github-profile-trophy-winning.vercel.app
+Mirror 4: https://github-profile-trophy-kannan.vercel.app
+Official: https://github-profile-trophy.vercel.app  (often rate-limited)
+-->
