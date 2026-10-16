@@ -1,208 +1,251 @@
 
 <div align="center">
 
-# Abhigyan Prakash
+<table>
+<tr>
+<td>
 
-### Backend Engineer | Java • Spring Boot • Distributed Systems
+<img src="https://img.shields.io/badge/●-Available_for_Backend_&_Software_Engineering_Roles-191919?style=flat-square&labelColor=191919" />
 
-Building reliable backend systems, scalable APIs, and concurrent applications.
+</td>
+<td>
 
-<p>
-  <a href="https://github.com/Abhigyan-29">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="YOUR_LEETCODE_URL">
-    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+<sub>Java · Spring Boot · Distributed Systems</sub>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abhigyan-29&style=flat-square&color=F7C843&label=PROFILE+VIEWS)
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br/>
 
-## `$ whoami`
+<sub>BACKEND ENGINEERING · SYSTEMS · AI</sub>
 
-```java
-public class BackendEngineer {
+# Building the systems behind
+# great products.
 
-    String name = "Abhigyan Prakash";
-    String primaryLanguage = "Java";
-    String backendFramework = "Spring Boot";
+I'm Abhigyan, a software engineer focused on backend development, scalable APIs, distributed systems, and AI-powered applications. I enjoy turning complex engineering problems into reliable, maintainable software.
 
-    String[] interests = {
-        "Backend Engineering",
-        "Distributed Systems",
-        "System Design",
-        "Concurrency",
-        "Database Engineering",
-        "API Development"
-    };
+<br/>
 
-    String currentFocus =
-        "Building reliable, production-oriented backend systems";
-}
+<p>
+<a href="#featured-projects"><img src="https://img.shields.io/badge/Explore_My_Projects-FFFFFF?style=for-the-badge&logoColor=black" /></a>
+<a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/View_Resume-151515?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/Let's_Connect-151515?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
+
+<br/>
+
+<table>
+<tr>
+<td width="25%">
+
+<sub>PRIMARY LANGUAGE</sub>
+
+**Java / Spring Boot**
+
+</td>
+<td width="25%">
+
+<sub>CORE ARCHITECTURE</sub>
+
+**REST APIs & Microservices**
+
+</td>
+<td width="25%">
+
+<sub>DATABASE LAYER</sub>
+
+**PostgreSQL & MongoDB**
+
+</td>
+<td width="25%">
+
+<sub>IN-MEMORY SYSTEMS</sub>
+
+**Redis Concepts & Concurrency**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `abhigyan@systems: ~` — Interactive Shell
+
+```text
+╭──────────────────────────────────────────────────────────────────────╮
+│ ●  ●  ●    >_ abhigyan@systems: ~ (interactive shell)                 │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│ System initialized. Abhigyan OS v2.4 (x86_64-linux-gnu).             │
+│ Type 'help' to view available commands.                              │
+│                                                                      │
+│ abhigyan@systems:~$ whoami                                           │
+│                                                                      │
+│   abhigyan // Backend Engineer — Java | Spring Boot                  │
+│              Distributed Systems | APIs | AI                         │
+│                                                                      │
+├──────────────────────────────────────────────────────────────────────┤
+│ ⚡ Quick commands                                                     │
+│                                                                      │
+│ [help] [projects] [stack] [systems] [curl] [resume]                  │
+│                                                                      │
+├──────────────────────────────────────────────────────────────────────┤
+│ abhigyan@systems:~$                                                   │
+│ Type a command (e.g. 'help', 'projects', 'curl')...                  │
+╰──────────────────────────────────────────────────────────────────────╯
 ```
 
-I enjoy understanding what happens behind an API — request processing, concurrency, data persistence, storage, and failure handling.
-
-My focus is on strengthening backend fundamentals and building projects that demonstrate practical engineering concepts.
-
-## ⚙️ Engineering Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python" />
-</p>
-
-### Backend & APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi" />
-</p>
-
-### Databases & Storage
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
-</p>
-
-### Infrastructure & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,aws" />
-</p>
-
-### Additional Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-</p>
+> Note: GitHub README files cannot execute custom JavaScript, so this terminal is a visual mockup. For a genuinely interactive shell, use a portfolio website.
 
 ---
 
-## 🚀 Featured Engineering Projects
+## `01` / Featured Projects
 
-### 01. Distributed File Storage System
+<a id="featured-projects"></a>
 
-**Java · Spring Boot · PostgreSQL · Docker · Kubernetes**
+### Distributed File Storage System
+
+`JAVA` `SPRING BOOT` `POSTGRESQL` `DOCKER` `KUBERNETES`
 
 A backend system exploring distributed file storage, parallel processing, replication, and failure recovery.
 
-- File chunking for handling large files.
-- Parallel upload and download workflows using `CompletableFuture`.
+- File chunking for large-file processing.
+- Parallel upload and download using `CompletableFuture`.
 - Replication and storage health monitoring.
-- Failover-oriented design for improving storage reliability.
+- Failover-oriented storage design.
 
-**Concepts:** Distributed storage · Concurrency · Replication · Fault tolerance
-
-[View Repository →](YOUR_DISTRIBUTED_STORAGE_REPO)
+[VIEW SOURCE CODE →](YOUR_DISTRIBUTED_STORAGE_REPO)
 
 ---
 
-### 02. MiniRedis — In-Memory Key-Value Store
+### MiniRedis — In-Memory Key-Value Store
 
-**Java · Spring Boot · ConcurrentHashMap · REST APIs**
+`JAVA` `SPRING BOOT` `CONCURRENCY` `DESIGN PATTERNS`
 
-A Redis-inspired project focused on fast key-value operations and memory management.
+A Redis-inspired storage engine built to explore memory management and concurrent access.
 
 - `SET`, `GET`, `DELETE`, and `EXISTS` operations.
-- TTL-based expiration using lazy expiration and scheduled cleanup.
+- TTL-based expiration and scheduled cleanup.
 - LRU, LFU, and FIFO eviction strategies.
-- Strategy Pattern for interchangeable eviction policies.
 - Thread-safe storage using `ConcurrentHashMap`.
 
-**Concepts:** In-memory storage · Thread safety · TTL · Eviction algorithms
-
-[View Repository →](YOUR_MINIREDIS_REPO)
+[VIEW SOURCE CODE →](YOUR_MINIREDIS_REPO)
 
 ---
 
-### 03. Real-Time Chat Application
+### Real-Time Chat Application
 
-**Node.js · Express.js · MongoDB · Socket.IO · JWT**
+`NODE.JS` `EXPRESS` `MONGODB` `SOCKET.IO` `JWT`
 
-A full-stack messaging application with a backend for authentication, persistence, and real-time communication.
+A real-time messaging application built around backend APIs, authentication, and persistent data.
 
 - REST API development.
 - JWT-based authentication.
-- Real-time communication using Socket.IO.
-- MongoDB integration for persistent application data.
+- Real-time communication with Socket.IO.
+- MongoDB persistence.
 
-**Concepts:** WebSockets · Authentication · API design · NoSQL
-
-[View Repository →](YOUR_CHAT_APP_REPO)
+[VIEW SOURCE CODE →](YOUR_CHAT_APP_REPO)
 
 ---
 
-### 04. AI Content Generator
+## `02` / Technical Arsenal
 
-**Next.js · TypeScript · Google Gemini API · Clerk**
+<table>
+<tr>
+<td width="50%">
 
-An AI-powered application integrating language-model capabilities into a web product.
+**BACKEND ENGINEERING**
 
-- External AI API integration.
-- Authentication workflows.
-- Full-stack application development.
+- Java
+- Spring Boot
+- Node.js & Express.js
+- REST API design
+- Authentication & authorization
+- Microservices fundamentals
 
-[View Repository →](YOUR_AI_CONTENT_GENERATOR_REPO)
+</td>
+<td width="50%">
+
+**DATA & STORAGE**
+
+- PostgreSQL
+- MongoDB
+- SQL & NoSQL
+- Data modeling
+- In-memory key-value storage
+- TTL & eviction strategies
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**SYSTEMS ENGINEERING**
+
+- Multithreading & concurrency
+- CompletableFuture
+- Distributed storage
+- Replication & failover concepts
+- Data structures & algorithms
+- Object-oriented design
+
+</td>
+<td width="50%">
+
+**TOOLS & INFRASTRUCTURE**
+
+- Linux
+- Git & GitHub
+- Docker
+- Kubernetes
+- Maven
+- Postman
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 Computer Science Fundamentals
-
-| Domain | Areas of Focus |
-|---|---|
-| Data Structures & Algorithms | Trees, graphs, hashing, complexity analysis |
-| Object-Oriented Programming | SOLID, abstraction, interfaces, design patterns |
-| Operating Systems | Processes, threads, synchronization |
-| Computer Networks | TCP/IP, HTTP, REST, WebSockets |
-| Databases | SQL, NoSQL, indexing, data modeling |
-| System Design | Caching, replication, scalability, fault tolerance |
-
----
-
-## 📊 GitHub Statistics
+## `03` / GitHub Metrics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhigyan-29&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhigyan-29&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=999999&icon_color=FFFFFF" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhigyan-29&layout=compact&theme=github_dark&hide_border=true" />
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhigyan-29&theme=github-dark-blue&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhigyan-29&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=999999" />
 
 </div>
 
 ---
 
-## 🎯 Currently Focused On
+## `04` / Current Operations
 
-- Deepening Java and Spring Boot expertise.
-- Practicing low-level and high-level system design.
-- Building backend projects around concurrency and storage.
-- Improving API testing, database design, and code quality.
-- Solving DSA problems consistently.
+```bash
+$ focus --current
+> Java & Spring Boot
+> Backend architecture and API design
+> Distributed systems and concurrency
+> DSA and system design
+
+$ objective --next
+> Build reliable software.
+> Understand engineering trade-offs.
+> Turn ideas into working systems.
+
+$ status
+> Open to backend and software engineering opportunities.
+```
 
 ---
 
-## 🤝 Let's Connect
-
 <div align="center">
 
-**Interested in backend engineering, distributed systems, and building useful products.**
+<sub>DESIGNED & ENGINEERED BY ABHIGYAN PRAKASH</sub>
 
-<a href="https://github.com/Abhigyan-29">
-  <img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github" />
-</a>
-
-<br/><br/>
-
-*"Good backend engineering is not just about making things work — it's about understanding why they work."*
+**Less hype. More engineering.**
 
 </div>
